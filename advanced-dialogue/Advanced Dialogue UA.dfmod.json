@@ -1,0 +1,22 @@
+{
+    "ModTitle": "Advanced Dialogue UA",
+    "ModVersion": "0.3.1",
+    "ModAuthor": "IvanKuzyk",
+    "ContactInfo": "kuzyki25@gmail.com",
+    "DFUnity_Version": "1.1.1",
+    "ModDescription": "\u041f\u0435\u0440\u0435\u043a\u043b\u0430\u0434 \u043c\u043e\u0434\u0443 Advanced Dialogue",
+    "GUID": "938ea94a-94c5-4092-a43f-0f03d2b9f716",
+    "Files": [
+        "Assets/Game/Mods/advanced-dialogue/Dialogue/AD_Dialogue.csv",
+        "Assets/Game/Mods/advanced-dialogue/Dialogue/AD_Keys.csv",
+        "Assets/Game/Mods/advanced-dialogue/Advanced Dialogue UA.dfmod.json"
+    ],
+    "Dependencies": [
+        {
+            "Name": "advanced dialogue",
+            "IsOptional": false,
+            "IsPeer": false,
+            "Version": "0.3.1"
+        }
+    ]
+}
